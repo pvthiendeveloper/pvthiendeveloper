@@ -32,7 +32,7 @@
 
 <h4><b><samp>Languages</samp></b></h4>
 
-![Kotlin](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0645ad?style=for-the-badge&logo=kotlinB&logoColor=white)
 ![Java](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Dart](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Go](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
