@@ -63,13 +63,13 @@
 ## Github Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hard-Coder05&theme=tokyonight_duo" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pvthiendeveloper&theme=tokyonight_duo" align="center">
 </div>
 <br/>
 
 ##
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hard-Coder05&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/Hard-Coder05/github-readme-stats-1) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hard-Coder05&hide=html,css,javascript)](https://github.com/Hard-Coder05/github-readme-stats-1)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hard-Coder05&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/pvthiendeveloper/github-readme-stats-1) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hard-Coder05&hide=html,css,javascript)](https://github.com/pvthiendeveloper/github-readme-stats-1)
 
 ##
 
