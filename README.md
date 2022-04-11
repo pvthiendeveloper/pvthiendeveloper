@@ -69,7 +69,7 @@
 
 ##
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pvthiendeveloper&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/pvthiendeveloper/github-readme-stats-1) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvthiendeveloper&hide=html,css,javascript)](https://github.com/pvthiendeveloper/github-readme-stats-1)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pvthiendeveloper&count_private=true&show_icons=true&theme=radical&include_all_commits=true)] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvthiendeveloper&hide=html,css,javascript)]
 
 ##
 
