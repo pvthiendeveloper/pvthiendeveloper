@@ -1,19 +1,13 @@
 # Hey Everyone! I'm Thien Pham
 
 
-<p align="center"><h4 align="center"><samp> Flutter and React Developer </samp></h4></p>
+<p align="center"><h4 align="center"><samp> Android and Flutter Developer </samp></h4></p>
 
 <div>
-<img align="right" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="40%"/>
-
-- 🔭 <samp>I’m currently learning React.
-- ✍🏻 <samp>I’m Training and Placement Coordinator at [NIT Raipur](http://nitrr.ac.in/) and Technical Executive [Entrepreneurship Cell, NIT Raipur](https://ecell.nitrr.ac.in/).
-- 🥇 <samp>National Finalist @SIH2020 || Rank 1 @CodeUtsava 2.0 Hackathon || Rank 2 @IEEE-APSIT Hackathon
-- 👯 <samp>Major Contributions: [E-Cell App](https://github.com/ECellNitrr/ECellApp2021) ; [VaxU App](https://github.com/sahil9001/VaxU_Base)
-- 💬 <samp>Ask me about Flutter and DSA
-- 🤔 <samp>I’m looking for help with web dev
-- 😄 <samp>Pronouns: He/His
-- ⚡ <samp>Fun fact: If u r my friend I will roast you till u burn.
+- 👋 I'm working with Android about 5+ years ago.
+- 👀 I’m interested in software development, technology, health and much more.
+- 🌱 I’m currently learning about react, golang, solidity, blockchain,...
+- 📫 pvthiendeveloper@gmail.com
 </div>
   
 <br/><br/>
