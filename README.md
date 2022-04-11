@@ -43,7 +43,7 @@
 <h4><b><samp>Mobile Frameworks</samp></b></h4>
 
   
-![Android](https://img.shields.io/badge/-Android-yellowgreen?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/-Android-yellowgreen?style=for-the-badge&logo=android&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
