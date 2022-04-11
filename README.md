@@ -1,5 +1,21 @@
 # Hey Everyone! I'm Thien Pham
 
+
+<p align="center"><h4 align="center"><samp> Flutter and React Developer </samp></h4></p>
+
+<div>
+<img align="right" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="40%"/>
+
+- 🔭 <samp>I’m currently learning React.
+- ✍🏻 <samp>I’m Training and Placement Coordinator at [NIT Raipur](http://nitrr.ac.in/) and Technical Executive [Entrepreneurship Cell, NIT Raipur](https://ecell.nitrr.ac.in/).
+- 🥇 <samp>National Finalist @SIH2020 || Rank 1 @CodeUtsava 2.0 Hackathon || Rank 2 @IEEE-APSIT Hackathon
+- 👯 <samp>Major Contributions: [E-Cell App](https://github.com/ECellNitrr/ECellApp2021) ; [VaxU App](https://github.com/sahil9001/VaxU_Base)
+- 💬 <samp>Ask me about Flutter and DSA
+- 🤔 <samp>I’m looking for help with web dev
+- 😄 <samp>Pronouns: He/His
+- ⚡ <samp>Fun fact: If u r my friend I will roast you till u burn.
+</div>
+
 <h4><b><samp>Connect with me</samp></b></h4>
 
 [![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pvthiendeveloper/)
@@ -17,21 +33,6 @@
 [![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/hard__coder)
 
 <br/><br/>
-
-<p align="center"><h4 align="center"><samp> Flutter and React Developer </samp></h4></p>
-
-<div>
-<img align="right" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="40%"/>
-
-- 🔭 <samp>I’m currently learning React.
-- ✍🏻 <samp>I’m Training and Placement Coordinator at [NIT Raipur](http://nitrr.ac.in/) and Technical Executive [Entrepreneurship Cell, NIT Raipur](https://ecell.nitrr.ac.in/).
-- 🥇 <samp>National Finalist @SIH2020 || Rank 1 @CodeUtsava 2.0 Hackathon || Rank 2 @IEEE-APSIT Hackathon
-- 👯 <samp>Major Contributions: [E-Cell App](https://github.com/ECellNitrr/ECellApp2021) ; [VaxU App](https://github.com/sahil9001/VaxU_Base)
-- 💬 <samp>Ask me about Flutter and DSA
-- 🤔 <samp>I’m looking for help with web dev
-- 😄 <samp>Pronouns: He/His
-- ⚡ <samp>Fun fact: If u r my friend I will roast you till u burn.
-</div>
 
 ##
 
