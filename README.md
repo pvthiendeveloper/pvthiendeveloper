@@ -73,7 +73,7 @@
 
 ##
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Hard-Coder05/count.svg" />
-</p>
+  <img src="https://profile-counter.glitch.me/pvthiendeveloper/count.svg" />
+</p> -->
