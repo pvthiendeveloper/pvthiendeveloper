@@ -40,7 +40,7 @@
 
 ##
 
-<h4><b><samp>Mobile Frameworks</samp></b></h4>
+<h4><b><samp>Frameworks</samp></b></h4>
 
   
 ![Android](https://img.shields.io/badge/-Android-yellowgreen?style=for-the-badge&logo=android&logoColor=61DAFB)
@@ -52,7 +52,6 @@
 <h4><b><samp>Database</samp></b></h4>
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ##
 
