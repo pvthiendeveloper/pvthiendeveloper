@@ -6,6 +6,7 @@
 - 👋 I'm working with Android about 5+ years ago.
 - 👀 I’m interested in software development, technology, health and much more.
 - 🌱 I’m currently learning about react, golang, solidity, blockchain,...
+- 🤔 I’m looking for help with android or flutter dev
   
 <br/><br/>
 
