@@ -3,7 +3,7 @@
 
 <p align="center"><h4 align="center"><samp> Android and Flutter Developer </samp></h4></p>
 
-- 👋 I'm working with Android about 5+ years ago.
+- 👋 I'm working with Android about 5+ years.
 - 👀 I’m interested in software development, technology, health and much more.
 - 🌱 I’m currently learning about react, golang, solidity, blockchain,...
 - 🤔 I’m looking for help with android or flutter dev
